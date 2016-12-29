@@ -21,7 +21,7 @@
 > 인용구 표시
 > test
 > from alaveiw.....
-> blockquate?
+> blockquate? asdfasdffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 
 
 탭 들여쓰기 하면 코드(잘안되네)	 한줄 비우고 탭 해야 적용됨.
@@ -64,7 +64,7 @@ int main (int age)
 create table
 
 Title1 | Title2
--- | -
+----- | -----
 aaaaaa | bbbbbbbb
 cccc|ddddddddddddddddddddddddddddd
 eeeeeeeeeeeeeeeeeeeeeee|fffffffffffff
