@@ -18,7 +18,7 @@
 따옴표로묶으면 강조됨`Hello World!` 
 
 
-> '>'기호를 쓰면 인용구 표시
+> 인용구 표시
 > test
 > from alaveiw.....
 > blockquate?
@@ -64,7 +64,7 @@ int main (int age)
 create table
 
 Title1 | Title2
-- | -
+-- | -
 aaaaaa | bbbbbbbb
 cccc|ddddddddddddddddddddddddddddd
 eeeeeeeeeeeeeeeeeeeeeee|fffffffffffff
