@@ -1,11 +1,15 @@
 # 깃 허브 마크다운 문서 연습
 
+
+
 # 샵 한개는 h1 테그 - line
 ## 샵 두개는 h2 테그 - line
 ### 샵 3개는 h3 테그
 #### 샵 4개는 h4 테그
 ##### 샵 5개는 h5 테그
 ###### 샵 6개는 h6 테그
+
+
 
 [Github .md guide] (https://guides.github.com/features/mastering-markdown/)
 링크는 [] 에 이름쓰고 ()에 주소 쓰면 됨.
@@ -15,10 +19,11 @@
 
 
 > '>'기호를 쓰면 인용구 표시
-> - 출처:누구누구로부터
+> 출처:누구누구로부터
 
 
-탭 들여쓰기 하면 코드
+탭 들여쓰기 하면 코드(잘안되네)
+
 	int main (void)
 	{
 		int a = 1;
@@ -32,5 +37,23 @@
 function aaa (str)
 {
 	console.log (str);
+}
+```
+
+javascript
+```javascript
+function aaa (str)
+{
+	console.log (str);
+}
+```
+
+c
+```c
+int main (int age)
+{
+	printf("age:%d", age);
+
+	return 0;
 }
 ```
